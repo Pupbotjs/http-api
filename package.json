@@ -1,0 +1,18 @@
+{
+  "name": "pupbot-plugin-http-api",
+  "version": "1.0.0",
+  "description": "pupbot的http-api插件",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lisk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
